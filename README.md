@@ -6,7 +6,7 @@ Repositório criado para armazenar os arquivos criado durante o desafio da [Targ
 
 * [Python](https://docs.python.org/3/) - Linguagem de Programação
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Linguagem de Programação
-* [Visual Studio Code](https://developer.mozilla.org/en-US/docs/Web/CSS) - IDE
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE
 
 ## ✒️ Creator
 
