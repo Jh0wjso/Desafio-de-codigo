@@ -1,0 +1,7 @@
+Primeiro, a entrada é convertida em lista de caracteres com list(), uma posição inicial e final são definidas para a inversão e atualizadas a cada iteração do loop while. Dentro do loop, os caracteres nas posições inicial e final são trocados com uma atribuição múltipla. Por fim, a lista de caracteres é convertida de volta para string com o método join() e a string invertida é exibida.
+
+Entrada:
+    Ola mundo.
+
+Saída:
+    .odnum alO

@@ -1,0 +1,12 @@
+Primeiro criamos uma variável para armazenar os dados, que serão utilizados, após isso criamos e inicializamos a variável total_faturamento que recebe a soma dos valores da variável faturamento, o calculo é feito com a biblioteca sum que faz as somas com mais eficacia.
+
+Por fim um for para percorrer todos os items da variável faturamento e assim para cada estado calculamos o percentual.
+
+Para finalizar os dados mostrados no terminal.
+
+Saída:
+    SP: 38.25%
+    RJ: 20.72%
+    MG: 16.52%
+    ES: 15.33%
+    Outros: 9.17%

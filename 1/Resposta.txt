@@ -1,0 +1,3 @@
+Este é um pseudocódigo que ao executar o loop de que enquanto a variável K(inicialmente recebendo o valor de 0) for menor o que INDICE(inicialmente recebendo o valor de 13), a cada vez que acontecer uma iteração no loop, o K receberá seu próprio valor mais um, e enquanto a variável SOMA(inicialmente sendo 0) receberá o valor de K e seu próprio valor, o loop continuará atpe que a condição de que K é menor que o INDICE seja satisfeita, que ocorrerá quando K for 91.
+
+Saída: 91

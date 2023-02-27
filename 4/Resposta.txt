@@ -1,0 +1,9 @@
+Primeiro criamos uma variável para armazenar os dados, que serão utilizados, após isso criamos e inicializamos as variáveis maior, menor e soma, depois através de um for percorremos os dados para encontrar o valores para as variáveis maior, menor e soma.
+
+Após isso calculamos a média e é criado a variável dias_acima_media, por fim com outro for percorremos os dados novamente para ver quais dias foram acima da média.
+
+Para finalizar os dados mostrados no terminal.
+
+Menor faturamento diário: 0.0       
+Maior faturamento diário: 48924.2448
+Numero de dias acima da media mensal: 12
